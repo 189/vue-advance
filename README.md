@@ -1,2 +1,2 @@
-# vuex-test
-Some test base on Vuex@^2.2.1
+# vuex-advance
+Some test base on vue stack Edit
